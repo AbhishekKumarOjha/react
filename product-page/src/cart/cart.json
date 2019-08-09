@@ -1,0 +1,43 @@
+{
+  "data": {
+    "product": [
+      {
+        "id": 10001,
+        "quantity": 8,
+        "notes": "adding product 1"
+      },
+      {
+        "id": 10002,
+        "quantity": 7,
+        "notes": "adding product 2"
+      },
+      {
+        "id": 10003,
+        "quantity": 6,
+        "notes": "adding product 3"
+      }
+    ],
+    "billingAddress": {
+      "firstName": "firstName",
+      "LastName": "LastName",
+      "address1": "address1",
+      "address2": "address2",
+      "city": "city",
+      "stateName": "state",
+      "zip": "zip",
+      "country": "country",
+      "dateValue": 1565255729562
+    },
+    "deliveryAddress": {
+      "firstName": "firstName",
+      "LastName": "LastName",
+      "address1": "address1",
+      "address2": "address2",
+      "city": "city",
+      "stateName": "state",
+      "zip": "zip",
+      "country": "country",
+      "dateValue": 1570255729562
+    }
+  }
+}
